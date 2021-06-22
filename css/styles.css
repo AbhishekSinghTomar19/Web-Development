@@ -1,0 +1,27 @@
+body {
+  background-color: #d1d9d9;
+}
+
+
+  h1{
+    color:#34656d;
+  }
+  h3:hover{
+    background-color: #6e7582;
+    color:#1eae98;
+  }
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+.background{
+  background-color: #dbf6e9;
+}
+.tech{
+  background-color:#caf7e3;
+}
