@@ -32,11 +32,15 @@ body{
   font-family: "Montserrat-Light";
   font-size: 1.2rem;
 }
-
+/* Download button */
 .download-button{
   margin: 5% 3% 5% 0;
 }
 
+/* Title image */
+.tilte-image{
+  width: 60%;
+}
 /* ID selector */
 #title{
   color: white;
