@@ -24,6 +24,9 @@ body{
 
 }
 
+.nav-item{
+  padding: 0 18px;
+}
 
 /* ID selector */
 #title{
