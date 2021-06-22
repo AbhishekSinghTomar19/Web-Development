@@ -33,6 +33,10 @@ body{
   font-size: 1.2rem;
 }
 
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
 /* ID selector */
 #title{
   color: white;
